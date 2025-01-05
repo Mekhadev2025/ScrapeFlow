@@ -2,12 +2,6 @@
 
 A lightweight and efficient web scraping tool built with Node.js. This scraper is designed to extract specific data (such as headings, links, or custom elements) from any given webpage, providing a fast and easy way to gather data for research, analysis, or automation tasks.
 
-
-
-A lightweight and efficient web scraping tool built with Node.js. This scraper is designed to extract specific data (such as headings, links, or custom elements) from any given webpage, providin
-
-
-A lightweight and efficient web scraping tool built with Node.js. This scraper is designed to extrac
 ## **Features**
 
 - Scrapes content from any URL.
