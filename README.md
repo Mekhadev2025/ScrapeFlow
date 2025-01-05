@@ -41,7 +41,7 @@ Run the Web Scraper
 To run the web scraper, simply execute the following command:
 
 ```bash
-node scraper.js
+node index.js
 ```
 
 
